@@ -1,0 +1,12 @@
+C:\Users\Neutr\OneDrive\Desktop\Spoofing\Neutron Loader\bin\Release\Neutron Loader.exe
+C:\Users\Neutr\OneDrive\Desktop\Spoofing\Neutron Loader\bin\Release\Neutron Loader.pdb
+C:\Users\Neutr\OneDrive\Desktop\Spoofing\Neutron Loader\obj\Release\Neutron Loader.csprojAssemblyReference.cache
+C:\Users\Neutr\OneDrive\Desktop\Spoofing\Neutron Loader\obj\Release\Neutron Loader.csproj.CoreCompileInputs.cache
+C:\Users\Neutr\OneDrive\Desktop\Spoofing\Neutron Loader\obj\Release\Neutron Loader.exe
+C:\Users\Neutr\OneDrive\Desktop\Spoofing\Neutron Loader\obj\Release\Neutron Loader.pdb
+E:\Users\nolan\Desktop\Neutron Shit\Neutron Loader\bin\Release\Neutron Loader.exe
+E:\Users\nolan\Desktop\Neutron Shit\Neutron Loader\obj\Release\Neutron Loader.csprojAssemblyReference.cache
+E:\Users\nolan\Desktop\Neutron Shit\Neutron Loader\obj\Release\Neutron Loader.csproj.CoreCompileInputs.cache
+E:\Users\nolan\Desktop\Neutron Shit\Neutron Loader\obj\Release\Neutron Loader.exe
+E:\Users\nolan\Desktop\Neutron Shit\Neutron Loader\obj\Release\Neutron Loader.pdb
+E:\Users\nolan\Desktop\Neutron Shit\Neutron Loader\bin\Release\Neutron Loader.pdb
